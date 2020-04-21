@@ -1,0 +1,10 @@
+C:\Users\edwar\source\repos\Classactivity\Classactivity\bin\Debug\netcoreapp2.1\Classactivity.deps.json
+C:\Users\edwar\source\repos\Classactivity\Classactivity\bin\Debug\netcoreapp2.1\Classactivity.runtimeconfig.json
+C:\Users\edwar\source\repos\Classactivity\Classactivity\bin\Debug\netcoreapp2.1\Classactivity.runtimeconfig.dev.json
+C:\Users\edwar\source\repos\Classactivity\Classactivity\bin\Debug\netcoreapp2.1\Classactivity.dll
+C:\Users\edwar\source\repos\Classactivity\Classactivity\bin\Debug\netcoreapp2.1\Classactivity.pdb
+C:\Users\edwar\source\repos\Classactivity\Classactivity\obj\Debug\netcoreapp2.1\Classactivity.csprojAssemblyReference.cache
+C:\Users\edwar\source\repos\Classactivity\Classactivity\obj\Debug\netcoreapp2.1\Classactivity.AssemblyInfoInputs.cache
+C:\Users\edwar\source\repos\Classactivity\Classactivity\obj\Debug\netcoreapp2.1\Classactivity.AssemblyInfo.cs
+C:\Users\edwar\source\repos\Classactivity\Classactivity\obj\Debug\netcoreapp2.1\Classactivity.dll
+C:\Users\edwar\source\repos\Classactivity\Classactivity\obj\Debug\netcoreapp2.1\Classactivity.pdb
